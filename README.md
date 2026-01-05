@@ -1,2 +1,3 @@
-# python-basics-practice
-Basic python exercises and mini programs
+# Python Basics Practice 
+
+This repository contains my first Python exercises.
