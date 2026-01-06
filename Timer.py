@@ -2,9 +2,11 @@ import time
 
 my_time = int(input("Enter the time in seconds: "))
 
-for x in range(1, my_time+1):
-    print(x)
+for x in range(my_time,0,-1):
+    secs = x % 60
+    mins = int(x / 60) % 60
+    hours = int(x / 3600)
+    print(f"{hours:02}:{mins:02}:{secs:02}")
     time.sleep(1)
 
 print("TIME'S UP!")
-
