@@ -16,10 +16,16 @@ A simple Python program that prints a rectangular "wall" of a user-defined size 
 3. Open a terminal (or command prompt) and go to the folder where the file is saved.
 4. Run the program using this command:
 
-   `bash
+###   `bash
+   
    python WallBuilder.py
+   
 When the program starts:
+
 Enter the number of rows (for example: 3)
+
 Enter the number of columns (for example: 4)
+
 Enter the symbol you want to use (for example: *)
+
 The program will then print a grid (wall) made of your chosen symbol.
