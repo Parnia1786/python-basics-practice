@@ -17,6 +17,7 @@ while True:
         prices.append(price)
 
 
+
 print()
 print("----- YOUR CART -----")
 
