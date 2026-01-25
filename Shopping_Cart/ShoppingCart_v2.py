@@ -27,7 +27,8 @@ def main():
                     print("Invalid input. Must be flaot. Try again.")
                     continue
     
-    
+
+
 while True:
     main()
     if foods==[]:
