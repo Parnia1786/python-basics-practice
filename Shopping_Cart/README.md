@@ -22,6 +22,10 @@ The user can enter food items with their prices, and the program calculates the 
 - ----- YOUR CART ----- 
 - Pizza Your total is: $8.50
 
+## Versions
+- v1: First simple version
+- v2: Added input checking and better user interaction
+- v3: Cleaner and more organized code
 
 ## Concepts Used
 - Lists
