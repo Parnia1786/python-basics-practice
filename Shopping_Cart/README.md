@@ -16,11 +16,11 @@ The user can enter food items with their prices, and the program calculates the 
 4. The program prints all selected items and the total cost.
 
 ## Example
-Enter a food to buy (q to quit): Pizza 
-Enter the price of a Pizza: $8.5
-Enter a food to buy (q to quit): q
------ YOUR CART ----- 
-Pizza Your total is: $8.50
+- Enter a food to buy (q to quit): Pizza 
+- Enter the price of a Pizza: $8.5
+- Enter a food to buy (q to quit): q
+- ----- YOUR CART ----- 
+- Pizza Your total is: $8.50
 
 
 ## Concepts Used
