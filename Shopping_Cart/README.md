@@ -20,7 +20,8 @@ The user can enter food items with their prices, and the program calculates the 
 - Enter the price of a Pizza: $8.5
 - Enter a food to buy (q to quit): q
 - ----- YOUR CART ----- 
-- Pizza Your total is: $8.50
+- Pizza
+- Your total is: $8.50
 
 ## Versions
 - v1: First simple version
