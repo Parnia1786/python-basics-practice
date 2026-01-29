@@ -10,29 +10,29 @@ Enter exam scores and calculate the average. The program shows a final grade: Ex
 - Displays average and final grade
 
 # Example
-- v1 – Simple Score Calculator
+v1 – Simple Score Calculator
 
-Enter your exam score: 85
-Grade: Good 🙂
+```What score did you get on your exam? 85```
 
-- v2 – Multi Exam Score Tracker
+```Grade: Good 🙂```
 
-1st exam (q to quit): 90
+v2 – Multi Exam Score Tracker
 
-2nd exam (q to quit): 75
+```What score did you get on your 1st exam (q to quit): 90```
 
-3rd exam (q to quit): 60
+```What score did you get on your 2nd exam (q to quit): 75```
 
-4th exam (q to quit): q
+```What score did you get on your 3rd exam (q to quit): 60```
 
-Total exams: 3
+```What score did you get on your 4th exam (q to quit): q```
 
+```Total exams: 3```
 
-Scores: [90.0, 75.0, 60.0]
+```Scores: [90.0, 75.0, 60.0]```
 
-Average score: 75.00
+```Average score: 75.00```
 
-Grade: Good 🙂
+```Grade: Good 🙂```
 
 ### Purpose
 Practice Python basics: loops, lists, input validation, and conditional statements.
