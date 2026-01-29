@@ -10,18 +10,23 @@ The user can enter food items with their prices, and the program calculates the 
 - Calculates and displays the total price of the cart
 
 ## How It Works
-1. The user enters a food name (or `q` to quit).
+1. The user enters a food name (or q to quit).
 2. The user enters the price for that food.
 3. The process repeats until the user quits.
 4. The program prints all selected items and the total cost.
 
 ## Example
-- Enter a food to buy (q to quit): Pizza 
-- Enter the price of a Pizza: $8.5
-- Enter a food to buy (q to quit): q
-- ----- YOUR CART ----- 
-- Pizza
-- Your total is: $8.50
+```Enter a food to buy (q to quit): Pizza ```
+
+```Enter the price of a Pizza: $8.5```
+
+```Enter a food to buy (q to quit): q```
+
+```----- YOUR CART -----```
+
+```Pizza```
+
+``` Your total is: $8.50```
 
 ## Versions
 - v1: First simple version
