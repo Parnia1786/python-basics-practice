@@ -10,9 +10,9 @@ Enter exam scores and calculate the average. The program shows a final grade: Ex
 - Displays average and final grade
 
 # Example
-** v1 – Simple Score Calculator **
-Enter your exam score: 85
-Grade: Good 🙂
+**v1 – Simple Score Calculator**
+**Enter your exam score: 85**
+**Grade: Good 🙂**
 
 ** v2 – Multi Exam Score Tracker **
 1st exam (q to quit): 90
